@@ -1,0 +1,4 @@
+python ( any verstion - suggestion: 2.7 )
+os ( python lib )
+time ( python lib )
+termcolor ( python lib )
