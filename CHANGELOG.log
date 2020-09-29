@@ -1,3 +1,10 @@
 Version 1.0.0
 -------------------------
 1. Application Created.
+
+Version 1.0.1
+-------------------------
+1. Fix some bugs.
+2. Set a default number if
+you enter empty.
+( set as 1 sec)
