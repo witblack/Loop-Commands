@@ -68,7 +68,11 @@ except:
 	exit(1)
 Command = raw_input("Enter your command: ")
 try:
-	Time = int(raw_input(colored("Enter sleep by sec: ",'white')))
+	Time = raw_input(colored("Enter sleep by sec (Default=1): ",'white'))
+	if Time == '':
+		Time = int(1)
+	else:
+		Time = int(Time)
 except:
 	print(colored("Time number is invalid!",'yellow'))
 	exit(1)
