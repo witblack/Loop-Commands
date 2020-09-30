@@ -2,9 +2,5 @@
 A loop for run a command or commands on a specified time on linux systems.
 
 # How use loop command script?
-writeing...
+You can run the Loop Commands with ./loop-command and enjoy!
 
-please visit later.
-
-NOTE:
-you can use source and scritp bug for see README.md file visit later.
