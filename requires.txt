@@ -1,4 +1,0 @@
-python ( any verstion )
-os ( python lib )
-time ( python lib )
-termcolor ( python lib )
