@@ -46,7 +46,7 @@ else:
 	else:
 		if '-c' in map(str.lower,sys.argv) or '--command' in map(str.lower,sys.argv):
 			if '-c' in map(str.lower,sys.argv):
-				Command = sys.argv[(map(str.lower,sys.argv).index('-c') + 1)]
+				Command = sys.argv[map(str.lower,sys.argv).index('-c') + 1]
 			else:
 				Command = sys.argv[map(str.lower,sys.argv).index('--command') + 1]
 		else:
@@ -54,20 +54,20 @@ else:
 		if '-s' in map(str.lower,sys.argv) or '--sleep' in map(str.lower,sys.argv):
 			if '-s' in map(str.lower,sys.argv):
 				try:
-					int(sys.argv[(map(str.lower,sys.argv).index('-s') + 1)])
+					int(sys.argv[map(str.lower,sys.argv).index('-s') + 1])
 				except:
 					print(colored('[!] Invalid sleep time number.','yellow'))
 					exit(1)
 				else:
-					Time = int(sys.argv[(map(str.lower,sys.argv).index('-s') + 1)])
+					Time = int(sys.argv[map(str.lower,sys.argv).index('-s') + 1])
 			else:
 				try:
-					int(sys.argv[(map(str.lower,sys.argv).index('--sleep') + 1)])
+					int(sys.argv[map(str.lower,sys.argv).index('--sleep') + 1])
 				except:
 					print(colored('[!] Invalid sleep time number.','yellow'))
 					exit(1)
 				else:
-					Time = int(sys.argv[(map(str.lower,sys.argv).index('--sleep') + 1)])
+					Time = int(sys.argv[map(str.lower,sys.argv).index('--sleep') + 1])
 		else:
 			while True:
 				try:
