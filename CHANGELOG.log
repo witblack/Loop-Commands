@@ -1,10 +1,15 @@
 Version 1.0.0
--------------------------
+-----------------------------------
 1. Application Created.
 
 Version 1.0.1
--------------------------
+-----------------------------------
 1. Fix some bugs.
 2. Set a default number if
-you enter empty.
-( set as 1 sec)
+3. Default time changed to 1 second
+
+Version 1.0.2
+-----------------------------------
+1. Adding in line command
+2. Adding optinal interactive mode
+
