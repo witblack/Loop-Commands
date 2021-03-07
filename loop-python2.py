@@ -50,7 +50,10 @@ else:
 			else:
 				Command = sys.argv[map(str.lower,sys.argv).index('--command') + 1]
 		else:
-			Command = raw_input("Enter command: ")
+			try:
+				Command = raw_input("Enter command: ")
+			except:
+				exit(0)
 		if '-s' in map(str.lower,sys.argv) or '--sleep' in map(str.lower,sys.argv):
 			if '-s' in map(str.lower,sys.argv):
 				try:
