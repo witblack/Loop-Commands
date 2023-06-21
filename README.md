@@ -61,30 +61,9 @@ Open CMD and go to path or script located. And then run script with './loop-comm
 Linux/Mac/Android:
 Open your terminal and go to path of script located. And then run this script witn './loop-commands.py' .
 
-Contact us:
--
-💬 Telegram:
-Https://t.me/WitBlack_ch
-
-💻 Web:
-Https://BugZone.ir
-
-📹 YouTube:
-https://www.youtube.com/channel/UCIgk2ldVeelyaHW3s4UkIIg (WitBlack)
-
-📱 Instagram:
-https://instagram.com/WitBlack80
-
-⌨️ Github:
-Https://github.com/WitBlack
-
-📧 E-Mail:
-admin@bugzone.ir
-
-
 
 Progarmmer Info:
 -
 Writen By WitBlack Hacker. Https://BugZone.ir/
 VERSION: 1.0.2
-COPY RIGHT 2021
+COPY RIGHT 2023
