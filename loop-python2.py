@@ -3,24 +3,6 @@
 #---------------------------
 # Writed By WitBlack HAcker
 #---------------------------
-#💬 Telegram:
-# Https://t.me/WitBlack_ch
-#
-#💻 Web:
-# Https://BugZone.ir
-#
-#📹 YouTube:
-# Https://www.youtube.com/channel/UCIgk2ldVeelyaHW3s4UkIIg (WitBlack)
-#
-#🎥 Aparat:
-# Https://aparat.com/WitBlack
-#
-#⌨️ Github:
-# Https://github.com/WitBlack
-#
-#📧 E-Mail:
-# admin@bugzone.ir
-#
 # Version : 1.0.2
 try:
 	import os
